@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "notes": "- Correct what the releases repository holds\n- Publish installers as release assets and only small files to Pages\n- Set the update public key\n- Publish through the separate releases repository, as Trader_go does\n- Revert \"Publish releases from this repository and make update signing optional\"\n- Publish releases from this repository and make update signing optional\n- Build downloadable 0rqestra desktop apps with packaged smoke checks\n- Use the 0rqestra name in the release pipeline\n- Make release tests independent of the host platform\n- Add release pipeline and in-app updates",
+  "pub_date": "2026-11-16T19:11:46Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "EPaayKJjPGz0RTwZcFFsXdZgVlD4vMyODfprNIeUt1o6UUu1+dWpu+hptuT9C/v8JpdY5RYss50x7wkhInjRBA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.0/0rqestra_0.1.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "frB7zMu4HYeqLmam6mG9EVOrn8eUh9UpthSbYDHEF3NO9dFSxSekrZHcR27+J18Jaqy0AiUYDa+F+Y4RRhmwCg==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.0/0rqestra_0.1.0_universal.zip"
+    },
+    "darwin-x86_64": {
+      "signature": "frB7zMu4HYeqLmam6mG9EVOrn8eUh9UpthSbYDHEF3NO9dFSxSekrZHcR27+J18Jaqy0AiUYDa+F+Y4RRhmwCg==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.0/0rqestra_0.1.0_universal.zip"
+    }
+  }
+}
