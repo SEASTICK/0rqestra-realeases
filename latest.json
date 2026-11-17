@@ -1,19 +1,19 @@
 {
-  "version": "0.1.2",
-  "notes": "- Complete automatic updates: in-app dialog, safe install and test-channel isolation\n- Add the 0rqestra app icon and use it for the window, executable and logo",
-  "pub_date": "2026-11-17T16:21:56Z",
+  "version": "0.1.3",
+  "notes": "- Rename the product from WorkTreeAI to 0rqestra everywhere",
+  "pub_date": "2026-11-17T17:01:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "9xGjxh/6Zp/P7WA+xvxVzd2oqhdrDGAr6pJRvbXBz2bTumsOWnknhQhk3QcQlOj/bgMiGpslSF2sWj5X4S1QBw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.2/0rqestra_0.1.2_x64-setup.exe"
+      "signature": "+7X3eOPQNwMisUyIoveslxFVRrNqyuzwq/10R73zOCdjBIboPMtv0TRh5r+cGmkY1IBjkdnTShmticJYoKOWAQ==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.3/0rqestra_0.1.3_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "fsxzcF6CLYqPOjidinTut2tTEU+dvS8F/7QttTqnVPC6HyulXF48xn9GEgA5aI0xq4XmRDHoAL7TJwf1ujETAA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.2/0rqestra_0.1.2_universal.zip"
+      "signature": "d1YZacjv/9O4kkwPt+ekEMuVgHjBvzLp0+naHWtftSXw6GeeKkqE2xHrEj+/pIYFsSkQxpjOEUITBQNHHTRGAw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.3/0rqestra_0.1.3_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "fsxzcF6CLYqPOjidinTut2tTEU+dvS8F/7QttTqnVPC6HyulXF48xn9GEgA5aI0xq4XmRDHoAL7TJwf1ujETAA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.2/0rqestra_0.1.2_universal.zip"
+      "signature": "d1YZacjv/9O4kkwPt+ekEMuVgHjBvzLp0+naHWtftSXw6GeeKkqE2xHrEj+/pIYFsSkQxpjOEUITBQNHHTRGAw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.3/0rqestra_0.1.3_universal.zip"
     }
   }
 }
