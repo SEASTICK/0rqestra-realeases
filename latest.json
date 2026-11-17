@@ -1,19 +1,19 @@
 {
-  "version": "0.1.5",
-  "notes": "- Correct which versions cannot show the update screen\n- Move the sidebar left, add a profile menu, start and update screens, neutral theme",
-  "pub_date": "2026-11-17T17:54:39Z",
+  "version": "0.1.6",
+  "notes": "- Give the provider tests a shared working folder, removed after all tests\n- Let provider tests clean up on Windows after the fake tool has closed\n- Phase 1: a real chat through your own Claude Code or Codex subscription\n- Plan: start with the users' own subscriptions, add API keys later\n- Add the plan for chat, agents and backend, in priority order\n- Remove the menu bar on Windows and Linux",
+  "pub_date": "2026-11-17T19:45:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "w2vRGlAjg6PQLgwle+Zz37MIPp8maP8VRMrI4b6dAT5/DNqGI/Iy1uBfO3CWK4EyylZ1Gtemtxlxg+6wPBuwDA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.5/0rqestra_0.1.5_x64-setup.exe"
+      "signature": "xscFYzPvCer4HHaP6Egl8SkN3Kc2sO6WuHp40K/C254qGUEmxYYNABoRfcuNRWyo3LonPB3cO5ftmVaDrun8Dw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.6/0rqestra_0.1.6_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "hNNxyAJ/9nOZudz9fJEs8KgGQ3QUl5V08tB4PLBbQjWwoRdv1I1qu7fNgb/m/W6/B2B7BnsYb9phvejeX78qCA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.5/0rqestra_0.1.5_universal.zip"
+      "signature": "fzkfusbS0RC392U0AtuR6UZNAW0JrEyo9/N4t/smMrxfQxSLMNZ4QP94Hxvoi/UcGMDfaHNQR5SA5FjZ/FYrCA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.6/0rqestra_0.1.6_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "hNNxyAJ/9nOZudz9fJEs8KgGQ3QUl5V08tB4PLBbQjWwoRdv1I1qu7fNgb/m/W6/B2B7BnsYb9phvejeX78qCA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.5/0rqestra_0.1.5_universal.zip"
+      "signature": "fzkfusbS0RC392U0AtuR6UZNAW0JrEyo9/N4t/smMrxfQxSLMNZ4QP94Hxvoi/UcGMDfaHNQR5SA5FjZ/FYrCA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.6/0rqestra_0.1.6_universal.zip"
     }
   }
 }
