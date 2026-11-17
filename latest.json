@@ -1,19 +1,19 @@
 {
-  "version": "0.1.1",
-  "notes": "- Stage 2 step 2: agreed roles, specialist cycles and unique priorities\n- Stage 2 step 1: bring in the preview template's interface without provider code\n- Apply the two accepted review-record corrections to the checklist\n- Record reviewed item 6 and item 10 Stage 1 documentation\n- Complete item 6 documentation research (provider-integrations rev. 4)\n- Record acceptance of 36443bb and scope the server-request wording\n- Correlate Codex approvals with the active turn and check final exits\n- Require confirmed denials in the probe write scenarios\n- Accept item 9 for the Windows-only scope and record known CI failures\n- här är appen",
-  "pub_date": "2026-11-17T12:43:36Z",
+  "version": "0.1.2",
+  "notes": "- Complete automatic updates: in-app dialog, safe install and test-channel isolation\n- Add the 0rqestra app icon and use it for the window, executable and logo",
+  "pub_date": "2026-11-17T16:21:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "mV/kKNrvV0MgUwZ8rFXBvI5rCSnIoobhqRdc/nziwvqRGMlcw978dhbvUPFDZCldGHdG+GONtvwl2cWY4L52Aw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.1/0rqestra_0.1.1_x64-setup.exe"
+      "signature": "9xGjxh/6Zp/P7WA+xvxVzd2oqhdrDGAr6pJRvbXBz2bTumsOWnknhQhk3QcQlOj/bgMiGpslSF2sWj5X4S1QBw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.2/0rqestra_0.1.2_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "fXlGApi+/bYmcv7+S9lpK8DErX/L93kasnb0FzUmWMz0gywil9AZbKOnXNuDWJr5xMbxHUK11U3jE9He5gkzBA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.1/0rqestra_0.1.1_universal.zip"
+      "signature": "fsxzcF6CLYqPOjidinTut2tTEU+dvS8F/7QttTqnVPC6HyulXF48xn9GEgA5aI0xq4XmRDHoAL7TJwf1ujETAA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.2/0rqestra_0.1.2_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "fXlGApi+/bYmcv7+S9lpK8DErX/L93kasnb0FzUmWMz0gywil9AZbKOnXNuDWJr5xMbxHUK11U3jE9He5gkzBA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.1/0rqestra_0.1.1_universal.zip"
+      "signature": "fsxzcF6CLYqPOjidinTut2tTEU+dvS8F/7QttTqnVPC6HyulXF48xn9GEgA5aI0xq4XmRDHoAL7TJwf1ujETAA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.2/0rqestra_0.1.2_universal.zip"
     }
   }
 }
