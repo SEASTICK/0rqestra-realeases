@@ -1,19 +1,19 @@
 {
-  "version": "0.1.6",
-  "notes": "- Give the provider tests a shared working folder, removed after all tests\n- Let provider tests clean up on Windows after the fake tool has closed\n- Phase 1: a real chat through your own Claude Code or Codex subscription\n- Plan: start with the users' own subscriptions, add API keys later\n- Add the plan for chat, agents and backend, in priority order\n- Remove the menu bar on Windows and Linux",
-  "pub_date": "2026-11-17T19:45:08Z",
+  "version": "0.1.7",
+  "notes": "- Remove an unused variable in the team runner\n- Phase 3, first release: the Manager plans and the team works\n- Accept Electron's crash on exit on Windows after the right smoke verdict\n- Crisp design, Manager questions, and products in the tree in the plan\n- Make CI stable: fix a reader race, loosen time limits, report retries\n- Phase 2: choose tool, model and effort per agent, and try an agent",
+  "pub_date": "2026-11-17T21:35:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "xscFYzPvCer4HHaP6Egl8SkN3Kc2sO6WuHp40K/C254qGUEmxYYNABoRfcuNRWyo3LonPB3cO5ftmVaDrun8Dw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.6/0rqestra_0.1.6_x64-setup.exe"
+      "signature": "ipQ6DigcrbpoUwKdTp53PnP6pNxc/uNVmNUHSJtp2h89wr5VKkjapsjeTETM+h1ffhSR9noTT69lPVeRSuDbAw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.7/0rqestra_0.1.7_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "fzkfusbS0RC392U0AtuR6UZNAW0JrEyo9/N4t/smMrxfQxSLMNZ4QP94Hxvoi/UcGMDfaHNQR5SA5FjZ/FYrCA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.6/0rqestra_0.1.6_universal.zip"
+      "signature": "NtylPcbl8uesREGRQyAA20f5r8+m664AxJTWSj12hDjpqVLkyVQWW4YIilA9QpxuO/FHxHKjJM4vl6d5LF9yCw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.7/0rqestra_0.1.7_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "fzkfusbS0RC392U0AtuR6UZNAW0JrEyo9/N4t/smMrxfQxSLMNZ4QP94Hxvoi/UcGMDfaHNQR5SA5FjZ/FYrCA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.6/0rqestra_0.1.6_universal.zip"
+      "signature": "NtylPcbl8uesREGRQyAA20f5r8+m664AxJTWSj12hDjpqVLkyVQWW4YIilA9QpxuO/FHxHKjJM4vl6d5LF9yCw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.7/0rqestra_0.1.7_universal.zip"
     }
   }
 }
