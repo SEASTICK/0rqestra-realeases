@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
-  "notes": "- Correct what the releases repository holds\n- Publish installers as release assets and only small files to Pages\n- Set the update public key\n- Publish through the separate releases repository, as Trader_go does\n- Revert \"Publish releases from this repository and make update signing optional\"\n- Publish releases from this repository and make update signing optional\n- Build downloadable 0rqestra desktop apps with packaged smoke checks\n- Use the 0rqestra name in the release pipeline\n- Make release tests independent of the host platform\n- Add release pipeline and in-app updates",
-  "pub_date": "2026-11-16T19:11:46Z",
+  "version": "0.1.1",
+  "notes": "- Stage 2 step 2: agreed roles, specialist cycles and unique priorities\n- Stage 2 step 1: bring in the preview template's interface without provider code\n- Apply the two accepted review-record corrections to the checklist\n- Record reviewed item 6 and item 10 Stage 1 documentation\n- Complete item 6 documentation research (provider-integrations rev. 4)\n- Record acceptance of 36443bb and scope the server-request wording\n- Correlate Codex approvals with the active turn and check final exits\n- Require confirmed denials in the probe write scenarios\n- Accept item 9 for the Windows-only scope and record known CI failures\n- här är appen",
+  "pub_date": "2026-11-17T12:43:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "EPaayKJjPGz0RTwZcFFsXdZgVlD4vMyODfprNIeUt1o6UUu1+dWpu+hptuT9C/v8JpdY5RYss50x7wkhInjRBA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.0/0rqestra_0.1.0_x64-setup.exe"
+      "signature": "mV/kKNrvV0MgUwZ8rFXBvI5rCSnIoobhqRdc/nziwvqRGMlcw978dhbvUPFDZCldGHdG+GONtvwl2cWY4L52Aw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.1/0rqestra_0.1.1_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "frB7zMu4HYeqLmam6mG9EVOrn8eUh9UpthSbYDHEF3NO9dFSxSekrZHcR27+J18Jaqy0AiUYDa+F+Y4RRhmwCg==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.0/0rqestra_0.1.0_universal.zip"
+      "signature": "fXlGApi+/bYmcv7+S9lpK8DErX/L93kasnb0FzUmWMz0gywil9AZbKOnXNuDWJr5xMbxHUK11U3jE9He5gkzBA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.1/0rqestra_0.1.1_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "frB7zMu4HYeqLmam6mG9EVOrn8eUh9UpthSbYDHEF3NO9dFSxSekrZHcR27+J18Jaqy0AiUYDa+F+Y4RRhmwCg==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.0/0rqestra_0.1.0_universal.zip"
+      "signature": "fXlGApi+/bYmcv7+S9lpK8DErX/L93kasnb0FzUmWMz0gywil9AZbKOnXNuDWJr5xMbxHUK11U3jE9He5gkzBA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.1/0rqestra_0.1.1_universal.zip"
     }
   }
 }
