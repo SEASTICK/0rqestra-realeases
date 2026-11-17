@@ -1,19 +1,19 @@
 {
-  "version": "0.1.4",
-  "notes": "- Fix the blank window: add storage-keys to the interface bundle",
-  "pub_date": "2026-11-17T17:22:00Z",
+  "version": "0.1.5",
+  "notes": "- Correct which versions cannot show the update screen\n- Move the sidebar left, add a profile menu, start and update screens, neutral theme",
+  "pub_date": "2026-11-17T17:54:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "T8GRl/ZnxMQvFzX9N8boty0tlEOwzE3HpwhErkjR7saBdxCjzd02LodDiGj+8pL3G/OZzv1Tg0wJ+KT+JxZTAQ==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.4/0rqestra_0.1.4_x64-setup.exe"
+      "signature": "w2vRGlAjg6PQLgwle+Zz37MIPp8maP8VRMrI4b6dAT5/DNqGI/Iy1uBfO3CWK4EyylZ1Gtemtxlxg+6wPBuwDA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.5/0rqestra_0.1.5_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "seNf5S8mYsDjHadqZxDBJcCQIo2xpD0brQSXYTpNj+nNDAUPn6dH8p9Zkkl12REeLVHCwaVP3mskfhNia+J1AA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.4/0rqestra_0.1.4_universal.zip"
+      "signature": "hNNxyAJ/9nOZudz9fJEs8KgGQ3QUl5V08tB4PLBbQjWwoRdv1I1qu7fNgb/m/W6/B2B7BnsYb9phvejeX78qCA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.5/0rqestra_0.1.5_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "seNf5S8mYsDjHadqZxDBJcCQIo2xpD0brQSXYTpNj+nNDAUPn6dH8p9Zkkl12REeLVHCwaVP3mskfhNia+J1AA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.4/0rqestra_0.1.4_universal.zip"
+      "signature": "hNNxyAJ/9nOZudz9fJEs8KgGQ3QUl5V08tB4PLBbQjWwoRdv1I1qu7fNgb/m/W6/B2B7BnsYb9phvejeX78qCA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.5/0rqestra_0.1.5_universal.zip"
     }
   }
 }
