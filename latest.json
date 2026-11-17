@@ -1,19 +1,19 @@
 {
-  "version": "0.1.3",
-  "notes": "- Rename the product from WorkTreeAI to 0rqestra everywhere",
-  "pub_date": "2026-11-17T17:01:33Z",
+  "version": "0.1.4",
+  "notes": "- Fix the blank window: add storage-keys to the interface bundle",
+  "pub_date": "2026-11-17T17:22:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "+7X3eOPQNwMisUyIoveslxFVRrNqyuzwq/10R73zOCdjBIboPMtv0TRh5r+cGmkY1IBjkdnTShmticJYoKOWAQ==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.3/0rqestra_0.1.3_x64-setup.exe"
+      "signature": "T8GRl/ZnxMQvFzX9N8boty0tlEOwzE3HpwhErkjR7saBdxCjzd02LodDiGj+8pL3G/OZzv1Tg0wJ+KT+JxZTAQ==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.4/0rqestra_0.1.4_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "d1YZacjv/9O4kkwPt+ekEMuVgHjBvzLp0+naHWtftSXw6GeeKkqE2xHrEj+/pIYFsSkQxpjOEUITBQNHHTRGAw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.3/0rqestra_0.1.3_universal.zip"
+      "signature": "seNf5S8mYsDjHadqZxDBJcCQIo2xpD0brQSXYTpNj+nNDAUPn6dH8p9Zkkl12REeLVHCwaVP3mskfhNia+J1AA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.4/0rqestra_0.1.4_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "d1YZacjv/9O4kkwPt+ekEMuVgHjBvzLp0+naHWtftSXw6GeeKkqE2xHrEj+/pIYFsSkQxpjOEUITBQNHHTRGAw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.3/0rqestra_0.1.3_universal.zip"
+      "signature": "seNf5S8mYsDjHadqZxDBJcCQIo2xpD0brQSXYTpNj+nNDAUPn6dH8p9Zkkl12REeLVHCwaVP3mskfhNia+J1AA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.4/0rqestra_0.1.4_universal.zip"
     }
   }
 }
