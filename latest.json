@@ -1,19 +1,19 @@
 {
-  "version": "0.1.8",
-  "notes": "- Build Windows tool paths with Windows separators on every platform\n- Guided setup in AI accounts: install, sign in and test each provider",
-  "pub_date": "2026-11-18T16:25:57Z",
+  "version": "0.1.10",
+  "notes": "- App-wide account, Demo mode removed, rename finished\n- Teams: fixes from the end-to-end verification\n- Teams phase 5: path reservations with leases\n- Produkter i trädet med live-förhandsvisning bredvid chatten\n- Teams phases 1-4: shared projects, Team Bridge, work briefs and catch-up\n- Planeraren gör planen och Managern planerar om efter ett misslyckande\n- Set up the whole team in one step from the connected tools",
+  "pub_date": "2026-11-19T06:05:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "LqmCKsE3CdPD0SKfKFs8oeefu+WRGcq6Pahvhb/nC09LtZzNAsy1xwjBvq8ofSO2fa5BB3jPuramqO0UM/BzDg==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.8/0rqestra_0.1.8_x64-setup.exe"
+      "signature": "HHhQolx3cw8issC3viaoRQi5RuojDsUFarFaUne/6gB3t7qvap0Qih8sVSkgUDJVa17CjGWBs0/mDfzfnZXRBw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.10/0rqestra_0.1.10_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "qWwJGfb53WEVGZMYufFQV7WQ29ewvpWS9cqY9bH+HBg7taztVgJrya21iUZxQNhIpkn5NyzYQClXNn+nl1ZyBw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.8/0rqestra_0.1.8_universal.zip"
+      "signature": "9vmOry5R+HJQpKdy2cRrZiRIO2aucs2BbuT8hbTbCDTD75Zm8vQiBedpmyLTD88tqM+Ij71mm4ybb/5mAoVxBg==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.10/0rqestra_0.1.10_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "qWwJGfb53WEVGZMYufFQV7WQ29ewvpWS9cqY9bH+HBg7taztVgJrya21iUZxQNhIpkn5NyzYQClXNn+nl1ZyBw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.8/0rqestra_0.1.8_universal.zip"
+      "signature": "9vmOry5R+HJQpKdy2cRrZiRIO2aucs2BbuT8hbTbCDTD75Zm8vQiBedpmyLTD88tqM+Ij71mm4ybb/5mAoVxBg==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.10/0rqestra_0.1.10_universal.zip"
     }
   }
 }
