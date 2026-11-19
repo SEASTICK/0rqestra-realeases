@@ -1,0 +1,19 @@
+{
+  "version": "0.1.9",
+  "notes": "- App-wide account, Demo mode removed, rename finished\n- Teams: fixes from the end-to-end verification\n- Teams phase 5: path reservations with leases\n- Produkter i trädet med live-förhandsvisning bredvid chatten\n- Teams phases 1-4: shared projects, Team Bridge, work briefs and catch-up\n- Planeraren gör planen och Managern planerar om efter ett misslyckande\n- Set up the whole team in one step from the connected tools",
+  "pub_date": "2026-11-19T05:59:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "w9gdjHEFMua9Xpb/ziqIt4OqkmEcoXTp1F5n3rZe5KDLVDA3Ht/9goGjVV5lz6MEOzhDavnaYesKuGicLNvgAQ==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/test-v0.1.9/0rqestra_0.1.9_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "zOPs3Xty8oC27FqZQ9l0eIySWDJQZv2xxrRKBy8KJuxoPg+o1g17KkKk2eQckZgz261547KS/UWL36ZtiaFlAA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/test-v0.1.9/0rqestra_0.1.9_universal.zip"
+    },
+    "darwin-x86_64": {
+      "signature": "zOPs3Xty8oC27FqZQ9l0eIySWDJQZv2xxrRKBy8KJuxoPg+o1g17KkKk2eQckZgz261547KS/UWL36ZtiaFlAA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/test-v0.1.9/0rqestra_0.1.9_universal.zip"
+    }
+  }
+}
