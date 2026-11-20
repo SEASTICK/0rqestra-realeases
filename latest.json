@@ -1,19 +1,19 @@
 {
-  "version": "0.1.11",
-  "notes": "- En fråga i taget, animation medan Managern arbetar, teamets aktivitet och hur mycket som finns kvar\n- Välj en del av förhandsvisningen och be Managern ändra den\n- Ordna trädet med en knapp, större träd och frågor som ett kort formulär\n- Planen namnger produkterna, och de syns i trädet så fort teamet börjar\n- Förhandsvisningen visar fel och Managern kan rätta dem, produktrutor går att flytta",
-  "pub_date": "2026-11-19T12:25:05Z",
+  "version": "0.1.12",
+  "notes": "- Ångra en körnings ändringar\n- Smoke-testet upptäcker en borttagen navigeringsspärr även när adressen löses upp långsamt\n- Fråga en agent direkt från dess panel i trädet\n- Se vad varje agent gör: panel i trädet med texten medan den skrivs, tidigare svar och filer",
+  "pub_date": "2026-11-20T14:50:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "mDRUfQJyK5okuP0y2XGeX4pmIgDLDG42tMoYSzR7Qw06H2yh5qThJnmDQZOWjngFKDZvqK0/YNIsGa2AgQXzCw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.11/0rqestra_0.1.11_x64-setup.exe"
+      "signature": "zxWJPMiqTg9BbUUx00Ln+lUIAPgj13ntFbNzNJdpWiP+6+YGMS7xGA+4vJFsD2Mtq3tVQgY6qL0BpH9arI7wBA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.12/0rqestra_0.1.12_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "UcHIkN0bsXs9gz+4dG2n04EnANIIiCzbQrOWr8/e4yEvvmEfOHFSleNhFQxyPo0YYRmKj43J8QI9XSdyfox+BA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.11/0rqestra_0.1.11_universal.zip"
+      "signature": "9sfNBeZHA/u71l72NVG1jXr67ejr4JEFHjwj2YwbzYzkZ5Pd6AtSp2Dfa+ohqdb+zHGuvkz9EoG+Ut4SgssDBQ==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.12/0rqestra_0.1.12_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "UcHIkN0bsXs9gz+4dG2n04EnANIIiCzbQrOWr8/e4yEvvmEfOHFSleNhFQxyPo0YYRmKj43J8QI9XSdyfox+BA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.11/0rqestra_0.1.11_universal.zip"
+      "signature": "9sfNBeZHA/u71l72NVG1jXr67ejr4JEFHjwj2YwbzYzkZ5Pd6AtSp2Dfa+ohqdb+zHGuvkz9EoG+Ut4SgssDBQ==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.12/0rqestra_0.1.12_universal.zip"
     }
   }
 }
