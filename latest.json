@@ -1,19 +1,19 @@
 {
-  "version": "0.1.12",
-  "notes": "- Ångra en körnings ändringar\n- Smoke-testet upptäcker en borttagen navigeringsspärr även när adressen löses upp långsamt\n- Fråga en agent direkt från dess panel i trädet\n- Se vad varje agent gör: panel i trädet med texten medan den skrivs, tidigare svar och filer",
-  "pub_date": "2026-11-20T14:50:48Z",
+  "version": "0.1.13",
+  "notes": "- Auto väljer modell per meddelande, och projektet får ett minne\n- Chatten som Claudes, bilagor, och Managern väljer modell per uppgift\n- Claude och ChatGPT arbetar tillsammans, och Managern bestämmer vem som gör vad\n- Kör appar som teamet byggt i en låst Docker-container på datorn\n- Task handoffs, stage 3: token usage, lighter prompts, reviewer stall fix\n- Task handoffs, stage 2: return briefs and requests for missing context\n- Task handoffs, stage 1: every agent gets a structured handoff for its job\n- Managers and the Planner know what teammates are working on\n- Teams in installed builds, usernames, friends and in-app team invites",
+  "pub_date": "2026-11-20T16:03:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "zxWJPMiqTg9BbUUx00Ln+lUIAPgj13ntFbNzNJdpWiP+6+YGMS7xGA+4vJFsD2Mtq3tVQgY6qL0BpH9arI7wBA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.12/0rqestra_0.1.12_x64-setup.exe"
+      "signature": "OiHbGahVKTNvnG4ZKYdFjeLK9hNakhhzQAODTHCsuUEfeqi0Eo7whMpZiDEEI9TTAbSuc0p1ozDyElXDHFIwDw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.13/0rqestra_0.1.13_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "9sfNBeZHA/u71l72NVG1jXr67ejr4JEFHjwj2YwbzYzkZ5Pd6AtSp2Dfa+ohqdb+zHGuvkz9EoG+Ut4SgssDBQ==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.12/0rqestra_0.1.12_universal.zip"
+      "signature": "mx8rtHR93ozOLlZbQgavQPUBDzMgbCuO4C1skmLiByrI8COi3LRXzYFOwVtFIOYzo7NmXcDW5s5X5COsRxX3BA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.13/0rqestra_0.1.13_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "9sfNBeZHA/u71l72NVG1jXr67ejr4JEFHjwj2YwbzYzkZ5Pd6AtSp2Dfa+ohqdb+zHGuvkz9EoG+Ut4SgssDBQ==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.12/0rqestra_0.1.12_universal.zip"
+      "signature": "mx8rtHR93ozOLlZbQgavQPUBDzMgbCuO4C1skmLiByrI8COi3LRXzYFOwVtFIOYzo7NmXcDW5s5X5COsRxX3BA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.13/0rqestra_0.1.13_universal.zip"
     }
   }
 }
