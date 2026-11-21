@@ -1,19 +1,19 @@
 {
-  "version": "0.1.14",
-  "notes": "- Managern leder och teamet bygger, och chatten drar inte längre ner en\n- Flera samtal per projekt, och Ask anything för frågor utan projekt",
-  "pub_date": "2026-11-20T19:10:42Z",
+  "version": "0.1.15",
+  "notes": "- Resizable Chat and Tree, a hideable sidebar, and project and team management\n- Agent capabilities: skills installed on agents, across projects",
+  "pub_date": "2026-11-21T11:03:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "DdCCCbHAOHDbeAjIPlQBgxWhNb1A90F8UJR+8XCH9sIbLAi2acZCH4GNa5qBXZXn3BSMGZX642Y7iWabc3x/DQ==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.14/0rqestra_0.1.14_x64-setup.exe"
+      "signature": "5sTzQLZXgEJVOhx/oROx4CfPib7I2ydRTZSAEtzAbBuVQAxBBaOcrNUdMUxdLyf23PqGjjMAmZiX35Ap5ptiAA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.15/0rqestra_0.1.15_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "zTEa5CgsUzZ4dY5kZvt2nlYzRa9d13frx/CQlBgHxy47oipVst2mm78bKw1zaPiILvsOGtMAYN2U0t0XFVlBAg==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.14/0rqestra_0.1.14_universal.zip"
+      "signature": "IivpM8ICWpePKJuh2Bi8ccoxMMHl67YY0Yg4y9QYrhT7irfSm2soWVsMFqx9kgmKHsz26941hufppPdPPRBjAQ==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.15/0rqestra_0.1.15_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "zTEa5CgsUzZ4dY5kZvt2nlYzRa9d13frx/CQlBgHxy47oipVst2mm78bKw1zaPiILvsOGtMAYN2U0t0XFVlBAg==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.14/0rqestra_0.1.14_universal.zip"
+      "signature": "IivpM8ICWpePKJuh2Bi8ccoxMMHl67YY0Yg4y9QYrhT7irfSm2soWVsMFqx9kgmKHsz26941hufppPdPPRBjAQ==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.15/0rqestra_0.1.15_universal.zip"
     }
   }
 }
