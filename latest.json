@@ -1,19 +1,19 @@
 {
-  "version": "0.1.16",
-  "notes": "- Auto väljer chattbot, +-meny som Claudes och skarpt träd vid zoom",
-  "pub_date": "2026-11-22T12:05:05Z",
+  "version": "0.1.17",
+  "notes": "Improvements and fixes.",
+  "pub_date": "2026-11-22T12:10:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "TD4PV0Y+xSNjMyDbWFFR5YcT5GN15cxIEByctmopOcgqoZVnTPxMv6THRSCxu13Km59nRPdwYMs2fMtNoQM/AA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.16/0rqestra_0.1.16_x64-setup.exe"
+      "signature": "4ZtYyvSu2fJAkWocTNPpVv7iooPyhAQHPjCNSm9SmtCyX7mscH+M+kXzppFCHD8pJR0o3KcSYtvgkbdDd/5wDg==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.17/0rqestra_0.1.17_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "o2aDReArim+SFdcPjThjftcGlZmgyywhjYbksNGFd4Ee60F1cuTvZiY9pIK2Ruh3nvDZ5gGQTb6iZwPQPsF1BA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.16/0rqestra_0.1.16_universal.zip"
+      "signature": "bBvkq/JtOwzTFnduqBacQqKPWOssgvnsXysu4eQtUB3Qj45NpWB/bWmXivrvzbkCn07vmGMTyyd1vpVBmR/WDA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.17/0rqestra_0.1.17_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "o2aDReArim+SFdcPjThjftcGlZmgyywhjYbksNGFd4Ee60F1cuTvZiY9pIK2Ruh3nvDZ5gGQTb6iZwPQPsF1BA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.16/0rqestra_0.1.16_universal.zip"
+      "signature": "bBvkq/JtOwzTFnduqBacQqKPWOssgvnsXysu4eQtUB3Qj45NpWB/bWmXivrvzbkCn07vmGMTyyd1vpVBmR/WDA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.17/0rqestra_0.1.17_universal.zip"
     }
   }
 }
