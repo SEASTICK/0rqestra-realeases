@@ -1,19 +1,19 @@
 {
-  "version": "0.1.15",
-  "notes": "- Resizable Chat and Tree, a hideable sidebar, and project and team management\n- Agent capabilities: skills installed on agents, across projects",
-  "pub_date": "2026-11-21T11:03:40Z",
+  "version": "0.1.16",
+  "notes": "- Auto väljer chattbot, +-meny som Claudes och skarpt träd vid zoom",
+  "pub_date": "2026-11-22T12:05:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "5sTzQLZXgEJVOhx/oROx4CfPib7I2ydRTZSAEtzAbBuVQAxBBaOcrNUdMUxdLyf23PqGjjMAmZiX35Ap5ptiAA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.15/0rqestra_0.1.15_x64-setup.exe"
+      "signature": "TD4PV0Y+xSNjMyDbWFFR5YcT5GN15cxIEByctmopOcgqoZVnTPxMv6THRSCxu13Km59nRPdwYMs2fMtNoQM/AA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.16/0rqestra_0.1.16_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "IivpM8ICWpePKJuh2Bi8ccoxMMHl67YY0Yg4y9QYrhT7irfSm2soWVsMFqx9kgmKHsz26941hufppPdPPRBjAQ==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.15/0rqestra_0.1.15_universal.zip"
+      "signature": "o2aDReArim+SFdcPjThjftcGlZmgyywhjYbksNGFd4Ee60F1cuTvZiY9pIK2Ruh3nvDZ5gGQTb6iZwPQPsF1BA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.16/0rqestra_0.1.16_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "IivpM8ICWpePKJuh2Bi8ccoxMMHl67YY0Yg4y9QYrhT7irfSm2soWVsMFqx9kgmKHsz26941hufppPdPPRBjAQ==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.15/0rqestra_0.1.15_universal.zip"
+      "signature": "o2aDReArim+SFdcPjThjftcGlZmgyywhjYbksNGFd4Ee60F1cuTvZiY9pIK2Ruh3nvDZ5gGQTb6iZwPQPsF1BA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.16/0rqestra_0.1.16_universal.zip"
     }
   }
 }
