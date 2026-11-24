@@ -1,19 +1,19 @@
 {
-  "version": "0.1.17",
-  "notes": "Improvements and fixes.",
-  "pub_date": "2026-11-22T12:10:06Z",
+  "version": "0.1.18",
+  "notes": "- Manager kan sättas till Auto, och Claudes 5-timmars- och veckoförbrukning kan hämtas och sparas",
+  "pub_date": "2026-11-24T07:41:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "4ZtYyvSu2fJAkWocTNPpVv7iooPyhAQHPjCNSm9SmtCyX7mscH+M+kXzppFCHD8pJR0o3KcSYtvgkbdDd/5wDg==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.17/0rqestra_0.1.17_x64-setup.exe"
+      "signature": "1E6ipCV4jonNmCNsHMfDiWbk2SryZvE0taEFeUxDNvBikZM+ahdbjLWIJ58BJaiBRbns9dCEOtLHEhDNqY1iBg==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.18/0rqestra_0.1.18_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "bBvkq/JtOwzTFnduqBacQqKPWOssgvnsXysu4eQtUB3Qj45NpWB/bWmXivrvzbkCn07vmGMTyyd1vpVBmR/WDA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.17/0rqestra_0.1.17_universal.zip"
+      "signature": "jtUnBzwvSDHTHkiag19thR1lbHGBY1MfLcuCSVnqpSE421lvIVqAByZKn/k7gRglkLCiPaW5Z5UGMibmuSnaDA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.18/0rqestra_0.1.18_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "bBvkq/JtOwzTFnduqBacQqKPWOssgvnsXysu4eQtUB3Qj45NpWB/bWmXivrvzbkCn07vmGMTyyd1vpVBmR/WDA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.17/0rqestra_0.1.17_universal.zip"
+      "signature": "jtUnBzwvSDHTHkiag19thR1lbHGBY1MfLcuCSVnqpSE421lvIVqAByZKn/k7gRglkLCiPaW5Z5UGMibmuSnaDA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.18/0rqestra_0.1.18_universal.zip"
     }
   }
 }
