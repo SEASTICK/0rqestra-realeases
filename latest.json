@@ -1,19 +1,19 @@
 {
-  "version": "0.1.20",
-  "notes": "- Nytt projekt från GitHub: egna repon via gh, kloning och uppsättning för teamet\n- Gemini som tredje verktyg: Gemini CLI via Google-inloggning, med låst inloggning och inga verktyg, Auto-val och konton",
-  "pub_date": "2026-11-25T17:27:47Z",
+  "version": "0.1.21",
+  "notes": "- Från GitHub klonar utan utforskare: standardmappen repos, Change-knapp och varning för OneDrive\n- Importera chatt med sökbar lista: välj Claude eller ChatGPT, öppna exportens zip direkt, sök och importera valda chattar",
+  "pub_date": "2026-11-25T18:05:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "IWiz4b+TYJ60ugt2niwsxfFGQ8vGBsQOgNpos/3kTDdjgkgVwVXOz2XYGPX2mLv8uGPYnYkUV+uCbiRmjOiJDg==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.20/0rqestra_0.1.20_x64-setup.exe"
+      "signature": "rXnouHJdKmvT6dJZlbOdIpX+zr2aF/slWAkw7hdADlGCp07eK1a1DvDp0HkkabBYrm9TkhkzKXFnU+y5opltCQ==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.21/0rqestra_0.1.21_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "yBjrNSCzKK/TO5kL89kghVjvbC9735wcwVA3xO8EmACsjh2qdMiNR1LVblmPxB6/19d/pFadRy2SAPbuOKakBg==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.20/0rqestra_0.1.20_universal.zip"
+      "signature": "x6bQqy4n6nz5SdsE034WNxGKJ96O/+zyMHv61RXd9XQ/rIcDKdAFh4qrfYV0G22U+7rOyD26t7xlrf6YjcCiAw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.21/0rqestra_0.1.21_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "yBjrNSCzKK/TO5kL89kghVjvbC9735wcwVA3xO8EmACsjh2qdMiNR1LVblmPxB6/19d/pFadRy2SAPbuOKakBg==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.20/0rqestra_0.1.20_universal.zip"
+      "signature": "x6bQqy4n6nz5SdsE034WNxGKJ96O/+zyMHv61RXd9XQ/rIcDKdAFh4qrfYV0G22U+7rOyD26t7xlrf6YjcCiAw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.21/0rqestra_0.1.21_universal.zip"
     }
   }
 }
