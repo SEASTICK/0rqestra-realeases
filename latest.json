@@ -1,19 +1,19 @@
 {
-  "version": "0.1.18",
-  "notes": "- Manager kan sättas till Auto, och Claudes 5-timmars- och veckoförbrukning kan hämtas och sparas",
-  "pub_date": "2026-11-24T07:41:35Z",
+  "version": "0.1.19",
+  "notes": "- Exportera och importera chattar: Markdown från 0rqestra, och dataexporter från Claude och ChatGPT\n- Arbeta i en mapp: nytt projekt med team, mapp, åtkomst och kontroller i några klick, och Managern ser mappens filer\n- Computer access-rutan får plats: bredare dialog utan rullning i sidled\n- git-testet använder den riktiga sökvägen även på Windows (inga 8.3-kortnamn)\n- Förbättra ett riktigt repo från appen: commit och push efter granskade ändringar, och agentnycklar direkt\n- Enklare sidomeny: nya chattar, chattar och projekt; förbrukning, AI-konton och Friends i profilmenyn\n- Inklistrade filadresser läses som POSIX-sökvägar även när testerna körs på Windows\n- Claudes utseende, en meny för vem som svarar, Copy och Retry, och inklistring av bilder, filer och lång text",
+  "pub_date": "2026-11-25T16:41:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "1E6ipCV4jonNmCNsHMfDiWbk2SryZvE0taEFeUxDNvBikZM+ahdbjLWIJ58BJaiBRbns9dCEOtLHEhDNqY1iBg==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.18/0rqestra_0.1.18_x64-setup.exe"
+      "signature": "H2QzOJIfJUA2GZySCZ75RtM8Vamwc5LTf7DXO8OkWblK77/VJSe/5jhXucfP+hhZIIicny/IxkqzBdvCZQJOBg==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.19/0rqestra_0.1.19_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "jtUnBzwvSDHTHkiag19thR1lbHGBY1MfLcuCSVnqpSE421lvIVqAByZKn/k7gRglkLCiPaW5Z5UGMibmuSnaDA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.18/0rqestra_0.1.18_universal.zip"
+      "signature": "llIB9xsUe7j54E3LFz803rfBOVNuBpf96ZM0NQVxqte7ECr+oiL8KF+KR3+feq2OFkUPmgaLZoY6Hi2w6kOHCA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.19/0rqestra_0.1.19_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "jtUnBzwvSDHTHkiag19thR1lbHGBY1MfLcuCSVnqpSE421lvIVqAByZKn/k7gRglkLCiPaW5Z5UGMibmuSnaDA==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.18/0rqestra_0.1.18_universal.zip"
+      "signature": "llIB9xsUe7j54E3LFz803rfBOVNuBpf96ZM0NQVxqte7ECr+oiL8KF+KR3+feq2OFkUPmgaLZoY6Hi2w6kOHCA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.19/0rqestra_0.1.19_universal.zip"
     }
   }
 }
