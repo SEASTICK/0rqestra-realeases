@@ -1,19 +1,19 @@
 {
-  "version": "0.1.21",
-  "notes": "- Från GitHub klonar utan utforskare: standardmappen repos, Change-knapp och varning för OneDrive\n- Importera chatt med sökbar lista: välj Claude eller ChatGPT, öppna exportens zip direkt, sök och importera valda chattar",
-  "pub_date": "2026-11-25T18:05:28Z",
+  "version": "0.1.22",
+  "notes": "- Teamchatt i Team Bridge som Managern läser och sorterar, Share with team, och migrering för team_messages\n- Team Bridge: alla i projektet som personboxar, du först, med det var och en kör just nu\n- Migrationsfil för friends_lookup_live (återskapad ur databasen) och read-only-test för vänfunktionerna",
+  "pub_date": "2026-11-26T20:12:04Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "rXnouHJdKmvT6dJZlbOdIpX+zr2aF/slWAkw7hdADlGCp07eK1a1DvDp0HkkabBYrm9TkhkzKXFnU+y5opltCQ==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.21/0rqestra_0.1.21_x64-setup.exe"
+      "signature": "NsOqtmAd2ksXTi091xEq1q7rGFb+HFWX1u1D3kGw3Dp2+0CGBLn6VhYONLfWjalKDBe83949Q0s59vbhmNbzAA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.22/0rqestra_0.1.22_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "x6bQqy4n6nz5SdsE034WNxGKJ96O/+zyMHv61RXd9XQ/rIcDKdAFh4qrfYV0G22U+7rOyD26t7xlrf6YjcCiAw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.21/0rqestra_0.1.21_universal.zip"
+      "signature": "7C2z87SOWKgGaJ/IuqqIkxd0Z1cJlS7zSBytMrghU6S+/aKpJUTSxRZek4vZFJ66AmsiigmpRe19Quib1c+UCA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.22/0rqestra_0.1.22_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "x6bQqy4n6nz5SdsE034WNxGKJ96O/+zyMHv61RXd9XQ/rIcDKdAFh4qrfYV0G22U+7rOyD26t7xlrf6YjcCiAw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.21/0rqestra_0.1.21_universal.zip"
+      "signature": "7C2z87SOWKgGaJ/IuqqIkxd0Z1cJlS7zSBytMrghU6S+/aKpJUTSxRZek4vZFJ66AmsiigmpRe19Quib1c+UCA==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.22/0rqestra_0.1.22_universal.zip"
     }
   }
 }
