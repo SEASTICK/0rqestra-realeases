@@ -1,19 +1,19 @@
 {
-  "version": "0.1.23",
-  "notes": "- Auto-text: användning som är slut flyttar arbetet\n- Auto väljer verktyg även efter hur mycket användning som finns kvar\n- Projektvyn: Environment-rad som visar kopplad mapp/repo och åtkomstnivå\n- Planner: gissa aldrig filnamn som indata, första uppgiften ska hitta de verkliga filerna\n- Gemini via Antigravity CLI (agy) istället för Gemini CLI",
-  "pub_date": "2026-11-26T21:22:28Z",
+  "version": "0.1.24",
+  "notes": "- Apply the team chat, project invite and checklist migrations; name the files by their live versions\n- Gemini via agy: prompten som värde till --print (verkligt agy tog nästa flagga som prompt)\n- Start a project together from Friends, and a shared Project Checklist\n- Review changes on the run card, run recovery, and a Get started checklist\n- Friends: find people by username, answer requests, and see changes live",
+  "pub_date": "2026-11-27T07:54:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "z3BfxJMnoJBnU9jRk/NhB2E60ULm0QO5lmQqxhbudO+9lL5etb4aQGr4c1RpKdpXhJ0hLo14cgLmgMmX4S3UDw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.23/0rqestra_0.1.23_x64-setup.exe"
+      "signature": "loY/kattswyk3wlsgYOpWskXL8lLPksdKNPjEEjFpzUFOBVqF+hOZPqYx4PqJTmURhxNRpR7rcCcrolFqCSOAw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.24/0rqestra_0.1.24_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "XJX2h1Gc9bTi0js4MnRi0/2KHtfZcKDNORPXMVs0SwUnVio/jv6nqfZ5YIjdyaIbaT2MWJPOAg9+kNA2sfsSDQ==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.23/0rqestra_0.1.23_universal.zip"
+      "signature": "reoVDaHHyRYf5rik4cleBWx0GvvrG9nT6EjlFbslCldaQPEhzs4IFREsDwWbj1Sh/MnYr5RqpJPIAXixeC4FAw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.24/0rqestra_0.1.24_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "XJX2h1Gc9bTi0js4MnRi0/2KHtfZcKDNORPXMVs0SwUnVio/jv6nqfZ5YIjdyaIbaT2MWJPOAg9+kNA2sfsSDQ==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.23/0rqestra_0.1.23_universal.zip"
+      "signature": "reoVDaHHyRYf5rik4cleBWx0GvvrG9nT6EjlFbslCldaQPEhzs4IFREsDwWbj1Sh/MnYr5RqpJPIAXixeC4FAw==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.24/0rqestra_0.1.24_universal.zip"
     }
   }
 }
