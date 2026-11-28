@@ -1,19 +1,19 @@
 {
-  "version": "0.1.24",
-  "notes": "- Apply the team chat, project invite and checklist migrations; name the files by their live versions\n- Gemini via agy: prompten som värde till --print (verkligt agy tog nästa flagga som prompt)\n- Start a project together from Friends, and a shared Project Checklist\n- Review changes on the run card, run recovery, and a Get started checklist\n- Friends: find people by username, answer requests, and see changes live",
-  "pub_date": "2026-11-27T07:54:38Z",
+  "version": "0.1.25",
+  "notes": "- Capabilities and Friends redesigns, Add friend or team, friends' status, and backup agents",
+  "pub_date": "2026-11-28T15:28:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "loY/kattswyk3wlsgYOpWskXL8lLPksdKNPjEEjFpzUFOBVqF+hOZPqYx4PqJTmURhxNRpR7rcCcrolFqCSOAw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.24/0rqestra_0.1.24_x64-setup.exe"
+      "signature": "cO/llJycRra6p97cRB6vtWCpIk0OxC/6BcnvMrztlvd/BTFB4LII/6xepaGVVl4xQlEsayksWrruLsnMSLmIAQ==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.25/0rqestra_0.1.25_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "reoVDaHHyRYf5rik4cleBWx0GvvrG9nT6EjlFbslCldaQPEhzs4IFREsDwWbj1Sh/MnYr5RqpJPIAXixeC4FAw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.24/0rqestra_0.1.24_universal.zip"
+      "signature": "bQJn6D+xRagsEVqVmpmZINiXjNR24DSTiU66ifAM1gMQfU1rAvRjwuH7jAx+BWj0QQPo+meVrgtuvIGnuNwbCg==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.25/0rqestra_0.1.25_universal.zip"
     },
     "darwin-x86_64": {
-      "signature": "reoVDaHHyRYf5rik4cleBWx0GvvrG9nT6EjlFbslCldaQPEhzs4IFREsDwWbj1Sh/MnYr5RqpJPIAXixeC4FAw==",
-      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.24/0rqestra_0.1.24_universal.zip"
+      "signature": "bQJn6D+xRagsEVqVmpmZINiXjNR24DSTiU66ifAM1gMQfU1rAvRjwuH7jAx+BWj0QQPo+meVrgtuvIGnuNwbCg==",
+      "url": "https://github.com/SEASTICK/0rqestra/releases/download/v0.1.25/0rqestra_0.1.25_universal.zip"
     }
   }
 }
